@@ -1,5 +1,7 @@
 # Kel's Project Portfolio
 
+## [FULL RESUME](docs/CONTRIBUTING.md)
+
 ## Python
 
 ###  RSA-Encryption-Decryption
