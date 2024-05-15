@@ -1,6 +1,6 @@
 # Kel's Project Portfolio
 
-## [FULL RESUME](docs/CONTRIBUTING.md)
+## [FULL RESUME](Lee_Kel_resume2024_public.pdf)
 
 ## Python
 
