@@ -35,3 +35,9 @@ Future: College Football :football: , College Basketball :basketball: , and NBA 
 
 [AS-Showlocker](https://github.com/klee16/AS-Showlocker) is a simple java application that allow users to keep track of a list of Tv shows, Podcast, and Moveis Users can Add,Edit,and delete from List :tv: :movie_camera: 
 
+# Sports Research
+
+## NFL
+
+[NFL EPA Overview](https://public.tableau.com/app/profile/kel5318/viz/NFLEPAOverview/Sheet2?publish=yes) is a research analsysis condudcted via R that find the top performers in the NFL by EPA 
+
