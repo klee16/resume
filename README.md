@@ -1,5 +1,22 @@
 # Kel's Project Portfolio
 
+- [Kel's Project Portfolio](#kel-s-project-portfolio)
+  * [[FULL RESUME](Lee_Kel_resume2024_public.pdf)](#-full-resume--lee-kel-resume2024-publicpdf-)
+  * [Python](#python)
+    + [RSA-Encryption-Decryption](#rsa-encryption-decryption)
+    + [Sports Graphs](#sports-graphs)
+    + [Sports News Aggregator](#sports-news-aggregator)
+  * [R/HTML](#r-html)
+    + [Fantasy Sports Report](#fantasy-sports-report)
+  * [Java/SQL](#java-sql)
+    + [AS-Showlocker](#as-showlocker)
+- [Tableau Dashboards](#tableau-dashboards)
+  * [Sports Research](#sports-research)
+    + [NFL](#nfl)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## [FULL RESUME](Lee_Kel_resume2024_public.pdf)
 
 ## Python
