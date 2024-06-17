@@ -54,5 +54,5 @@ Future: College Football :football: , College Basketball :basketball: , and NBA 
 
 ### NFL
 
-[NFL EPA Overview]([https://public.tableau.com/app/profile/kel5318/viz/NFLEPAOverview/Sheet2?publish=yes](https://public.tableau.com/app/profile/kel5318/viz/NFLEPAOverview/HUB?publish=yes)) is a research analsysis condudcted via R that find the top performers in the NFL by EPA 
+[NFL EPA Overview](https://public.tableau.com/app/profile/kel5318/viz/NFLEPAOverview/HUB?publish=yes) is a research analsysis condudcted via R that find the top performers in the NFL by EPA 
 
