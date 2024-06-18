@@ -46,7 +46,7 @@ Future: College Football :football: , College Basketball :basketball: , and NBA 
 ## PHP/HTML
 ### TheVibe.com
 [TheVibe.com](https://klee16.github.io/THEVibe.com/) is a project intended to be the prototype for a Multi Media Website based around Music 
-[FULL RESPITORY]([https://klee16.github.io/THEVibe.com/](https://github.com/klee16/THEVibe.com))
+[FULL RESPITORY]([https://klee16.github.io/THEVibe.com/](https://github.com/klee16/THEVibe.com)
 
 
 ## Java/SQL
