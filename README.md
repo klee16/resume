@@ -39,6 +39,7 @@ Fututre Sports: Football :football: , Soccer :soccer: , Baseball :baseball: and 
 [Fantasy Sports Report](https://github.com/klee16/FF-report-generator) is developed to provide a tool for researchers and enthusiest that allows for autmated report generation based on weekly and season parameters.
 
 Fantasy Sports Reports was developed to give fanatics and researchers tools to explore ,evaluate , and stay up to date of today sports world.
+Check at Fnatasy Sports Report at https://kel-lee.shinyapps.io/FantasySportsReport/
 
 Current Sports : Football :football:
 Future: College Football :football: , College Basketball :basketball: , and NBA :basketball:
